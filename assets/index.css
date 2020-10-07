@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(89, 115, 167);
+    background-image: url(https://i.pinimg.com/originals/54/75/72/5475727c7b7814aaa4996cdf567966dd.jpg);
+    background-size: cover;
+}
+
+.container {
+    background: rgb(206, 206, 206);
+    margin-bottom: 100px;
+}
+.navbar {
+    margin-bottom: 100px;
+}
+
+ .col-sm-8 img {
+     margin-right: 20px;
+     float: left;
+     max-width: 100%;
+     height: auto;   
+}
+
+ .col-lg-12 {
+     font-family: 'Archivo Black', sans-serif;
+ }
+
+ footer {
+     background-color: grey;
+     width: 100%;
+     bottom: 0px;
+     padding: 3px;
+     text-align: center;
+ }
