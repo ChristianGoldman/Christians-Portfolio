@@ -7,32 +7,35 @@ body {
 .container {
     background: rgb(206, 206, 206);
     margin-bottom: 100px;
+    width: 80%;
 }
 .navbar {
     margin-bottom: 100px;
 }
 
- .col-sm-8 img {
+ .col-sm-12 img {
      margin-right: 20px;
      float: left;
      max-width: 100%;
      height: auto;   
 }
 
- .col-lg-12 {
+ .col-sm-12 {
      font-family: 'Archivo Black', sans-serif;
  }
 
  footer {
-     background-color: grey;
      width: 100%;
      bottom: 0px;
      padding: 3px;
      text-align: center;
+     display: block;
+     background-color: rgb(58, 58, 58);
+     color: white;
  }
 
  a:link {
-    color: rgb(10, 10, 90);
+    color: rgb(75, 184, 218);
 }
 
 a:hover {
