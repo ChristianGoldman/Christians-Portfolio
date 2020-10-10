@@ -1,7 +1,7 @@
 #  Unit 02 CSS and Bootstrap
 ## User Story ##
 * Developed this portfolio as a base structure to be improved on when I learn new tricks I can add.
-* Motivated to use this as a referance point for future employees so they can see what im capable of
+* Motivated to use this as a reference point for future employees so they can see what im capable of
 * I learned bootstrap can be a great place to start for your webpage, a lot of the CSS/HTML legwork is already completed for you
 * Bootstrap has its limitations in terms of a unique looking webpage
 * My project stands out because of my portfolio page. The mouseover text boxs that appear add a really nice touch! Thanks Paul Henderickson!
@@ -9,8 +9,8 @@
 * Functional links (About me, Contact, Portfolio, email link, and linkedin)
 * Responsive images and layout
 * Text block appear on images when mouse over in portfolio
-* Bootstrap form for you to put info to contact me in 
-* In-depth bio on About me page
+* Bootstrap form you can use to contact me 
+* In-depth bio on the "About me" page
 ## Installation ##
 1. Open up git bash terminal
 2. Change directory to desired location (%User Profile%/SourceRepo)
