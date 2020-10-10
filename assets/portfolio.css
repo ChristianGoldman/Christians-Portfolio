@@ -54,6 +54,7 @@ footer {
     display: block;
     background-color: rgb(58, 58, 58);
     color: white;
+    margin-top: 100px;
 }
 
 a:link {
