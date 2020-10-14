@@ -14,11 +14,11 @@
 ## Installation ##
 1. Open up git bash terminal
 2. Change directory to desired location (%User Profile%/SourceRepo)
-3. Clone the repository (git clone git@github.com:ChristianGoldman/Homework02.git)
+3. Clone the repository (git clone git@github.com:ChristianGoldman/Understanding-Bootstrap.git)
 ## Usage ##
 1. Open index.html in browser.
 2. Should see a page like this.
-![About Me](https://raw.githubusercontent.com/ChristianGoldman/Homework02/main/Portfolio%20pictures/ReadMe.png)
+![About Me](./assets/Portfolio%20pictures/ReadMe.png)
 ## Credits ##
 * gitlab Cwerness
 * TA's and Instructor
@@ -27,7 +27,7 @@
 * https://www.w3schools.com/
 * https://getbootstrap.com/docs/4.5/getting-started/introduction/
 ## Link to Deployed Application ##
-https://christiangoldman.github.io/Homework02/
+https://christiangoldman.github.io/Understanding-Bootstrap/
 ## License ##
 MIT License
 
