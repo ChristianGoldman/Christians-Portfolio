@@ -12,6 +12,7 @@
 * Bootstrap form you can use to contact me 
 * In-depth bio on the "About me" page
 * 3 porjects I have completed
+* Email, phone number, PDF Resume and linkedIn all at the bottom of each webpage
 ## Installation ##
 1. Open up git bash terminal
 2. Change directory to desired location (%User Profile%/SourceRepo)
