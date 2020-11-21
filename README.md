@@ -11,10 +11,11 @@
 * Text block appear on images when mouse over in portfolio
 * Bootstrap form you can use to contact me 
 * In-depth bio on the "About me" page
+* 3 porjects I have completed
 ## Installation ##
 1. Open up git bash terminal
 2. Change directory to desired location (%User Profile%/SourceRepo)
-3. Clone the repository (git clone git@github.com:ChristianGoldman/Understanding-Bootstrap.git)
+3. Clone the repository (git clone git@github.com:ChristianGoldman/Christians-Portfolio.git)
 ## Usage ##
 1. Open index.html in browser.
 2. Should see a page like this.
@@ -26,6 +27,11 @@
 * https://makitweb.com/html-how-to-show-text-above-image-on-hover/
 * https://www.w3schools.com/
 * https://getbootstrap.com/docs/4.5/getting-started/introduction/
+* https://github.com/bvargas17
+* https://github.com/kaidong-chr
+* https://github.com/liambambery23
+* https://github.com/vina19
+* https://github.com/hlamkins
 ## Link to Deployed Application ##
 https://christiangoldman.github.io/Understanding-Bootstrap/
 ## License ##
