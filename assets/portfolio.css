@@ -68,3 +68,11 @@ a:hover {
 a:active {
    color: black;
 }
+
+.btn {
+    margin-top: 5px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
